@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+DCGS Year 9
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Table Tennis, Squash and Tennis player
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Contact me at: henry.hemsworth@challoners.org
